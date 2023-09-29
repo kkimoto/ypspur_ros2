@@ -1,4 +1,4 @@
-# ypspur_ros
+# ypspur_ros2 ( Under construction.  Attenptiong to create ROS2 package. )
 
 ## Package summary
 
